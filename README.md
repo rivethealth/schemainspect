@@ -1,3 +1,5 @@
+Note from Rivet: this was created to mimic Paul's fork of the original repo, found here: https://github.com/pauldraper/schemainspect/tree/pauldraper/comment
+
 # `schemainspect`: SQL Schema Inspection
 
 Schema inspection for PostgreSQL (and potentially others in the future).
